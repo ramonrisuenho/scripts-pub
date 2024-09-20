@@ -1,0 +1,123 @@
+application:
+  name: 'E-commerce Netsecurity'
+  logo: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+  welcomeBanner:
+    showOnFirstStart: false
+  theme: blue-lightblue
+  cookieConsent:
+    message: 'We use cookies and other tracking technologies as well as external media on our website.'
+    dismissText: "Sure!"
+  chatBot:
+    name: 'NSS-BOT'
+    avatar: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+  social:
+    twitterUrl: ~
+    facebookUrl: ~
+    slackUrl: ~
+    redditUrl: ~
+    pressKitUrl: ~
+    nftUrl: ~
+  domain: e-commerce.netsecurity.app
+  privacyContactEmail: ramon.risuenho@netsecurity.com.br
+  favicon: https://s3.amazonaws.com/heysummit-production/media/thumbnails/defaults/user_default_image_square_large.png
+  altcoinName: Net-Coin
+  customMetricsPrefix: oss2020
+  recyclePage:
+    topProductImage: planttreev1_280x420.jpg
+    bottomProductImage: undefined.png
+challenges:
+  showSolvedNotifications: false
+  overwriteUrlForProductTamperingChallenge: 'https://www.juicesummit.org/'
+hackingInstructor:
+  avatarImage: 'https://s3.amazonaws.com/heysummit-production/media/thumbnails/defaults/user_default_image_square_large.png'
+products:
+  -
+    name: 'TechDay NSS - Lockdown Edition Enamel Mug'
+    price: 13
+    description: "Every happy camper needs a unique camper mug. It's lightweight, durable and multifunctional. Use it for your favorite beverage or a hot meal, and attach it to your bag for easy access on a hike."
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+  -
+    name: 'TechDay NSS - Juice Shop Track Sticker'
+    price: 1.80
+    description: "These stickers are printed on durable, high opacity adhesive vinyl which makes them perfect for regular use, as well as for covering other stickers or paint. The high-quality vinyl ensures there are no bubbles when applying the stickers."
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+    reviews:
+      - { text: 'This is the juiciest decal for my space ship!', author: jim }
+  -
+    name: 'TechDay NSS - Facemask / Headband / Bandana'
+    price: 14
+    description: "This neck gaiter is a versatile accessory that can be used as a face covering, headband, bandana, wristband, and neck warmer. Upgrade your accessory game and find a matching face shield for each of your outfits."
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+  -
+    name: 'TechDay NSS - Aluminium Bottle'
+    price: 20
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+  -
+    name: 'TechDay NSS - 2024 Ticket'
+    price: 599
+    description: 'SAVE THE DATE FOR THE 2021 EDITION OF THE SUMMIT, ON OCTOBER 7 & 8 AT THE SAME LOCATION – HILTON ANTWERP HOTEL 4* IN ANTWERP, BELGIUM.'
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+    reviews:
+      - { text: 'Juicy!!!', author: bjoern }
+  -
+    name: 'TechDay NSS - 2024 Open Security Summit'
+    price: 5.99
+    description: 'Plant a tree for the Open Security Summit and reduce our carbon footprint!'
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+    reviews:
+      - { text: 'Humans are all puny tree huggers!', author: bender }
+  -
+    name: 'TechDay NSS - 2024 Security Summit'
+    description: 'Get your official ticket!'
+    price: 50
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+    urlForProductTamperingChallenge: 'https://open-security-summit-2020.heysummit.com/checkout/select-tickets/'
+  -
+    name: 'TechDay NSS - 2024 Open Security Summit Ticket'
+    description: 'The ASEAN CSA and OWASP Summit 2014 will be the ASEAN industry’s event for IT security professionals and executives who must further educate themselves on the rapidly evolving subject of cloud security. In addition, to offer best practices and practical solutions for the security in clouds, ASEAN CSA and OWASP Summit will focus on emerging areas of growth and concern in cloud security, including research & development, standardization and policies. Stepping up from the security in cloud infrastructure, the summit will also discuss about security of “Anything as a Service (XaaS)” that are available in the real world. Additionally, for those who develop their own applications running on the cloud, application security experts will shares the key factors to make application secured.'
+    price: 399.99
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+    useForChristmasSpecialChallenge: true
+  -
+    name: 'TechDay NSS - Rippertuer Special Juice'
+    description: 'Contains a magical collection of the rarest fruits gathered from all around the world, like Cherymoya Annona cherimola, Jabuticaba Myrciaria cauliflora, Bael Aegle marmelos... and others, at an unbelievable price! <br/><span style="color:red;">This item has been made unavailable because of lack of safety standards.</span>'
+    price: 16.99
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+    keywordsForPastebinDataLeakChallenge:
+      - hueteroneel
+      - eurogium edule
+  -
+    name: 'TechDay NSS -  Juice Shop'
+    description: 'This rare item was designed and handcrafted in Sweden. This is why it is so incredibly expensive despite its complete lack of purpose.'
+    price: 99.99
+    image: 'https://media.licdn.com/dms/image/v2/D4D0BAQEuVAwp3ocwXg/company-logo_200_200/company-logo_200_200/0/1710782801922/netsecuritybrasil_logo?e=2147483647&v=beta&t=xFGZTV3W-99WufXQa_P9neeb7nzUHqNRYRi5-CmNwBM'
+    fileForRetrieveBlueprintChallenge: JuiceShop.stl # ...to blueprint file type
+    exifForBlueprintChallenge:
+      - ~
+memories:
+  -
+    image: 'https://user-images.githubusercontent.com/15072044/41160171-c2619674-6b26-11e8-9c3e-848f6b2d9d0f.jpg'
+    caption: 'The table is long because of the community'
+    user: admin
+  -
+    image: 'https://user-images.githubusercontent.com/15072044/41163238-0ac8184e-6b30-11e8-9e84-25433de7accc.jpg'
+    caption: 'Into the zone!'
+    user: admin
+  -
+    image: 'https://user-images.githubusercontent.com/15072044/41160165-c1f285b8-6b26-11e8-848b-8b15c3c35f94.jpg'
+    caption: 'My burger will be like this!'
+    user: jannik
+  -
+    image: 'https://user-images.githubusercontent.com/15072044/41010154-be17a162-692d-11e8-84f8-3cb855ae473d.jpg'
+    caption: 'Security'
+    user: admin
+  -
+    image: 'favorite-hiking-place.png'
+    caption: 'I love going hiking here...'
+    geoStalkingMetaSecurityQuestion: 14
+    geoStalkingMetaSecurityAnswer: 'Daniel Boone National Forest'
+  -
+    image: 'IMG_4253.jpg'
+    caption: 'My old workplace...'
+    geoStalkingVisualSecurityQuestion: 10
+    geoStalkingVisualSecurityAnswer: 'NetSecurity'
